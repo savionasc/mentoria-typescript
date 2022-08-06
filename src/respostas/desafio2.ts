@@ -1,4 +1,3 @@
-
 enum Trabalho {
     Atriz,
     Padeiro
